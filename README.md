@@ -1,2 +1,2 @@
 # sat-ansible
-Satellite 6.3 and Ansible Tower patching playbooks
+Satellite 6.7 and Ansible Tower patching playbooks
